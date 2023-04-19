@@ -11,4 +11,5 @@ The actual device is the ESP32 camera, the gyroscope, and an onboard LED light s
 Obviously, this contraption - which has taken three months of my life, is still not entirely complete (I screwed up the soldering), and cost me hundreds of dollars in total (though the finalized device costs approximately $15 to create), is incredibly useful, as it is designed to motivate me to not crash. I think it's working - it looks very scary, and it's bright red LED signal light that says "I'm ready to go. I'm just waiting for you to mess up, pal" is very scary. 
 
 I will update this ReadMe when I crash, which will be the only time that I truly know if the code fully works to detect a flip.
+If you are reading this before I update it, assume that either A) I am a very good racecar driver who never crashes, or B) I crashed a little too hard and can't update github ReadMe's from a casket.
   
