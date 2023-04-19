@@ -1,4 +1,4 @@
-//Rewritten code
+//Aidan Borden
 
 //Definitions for E-MAIL portions: 
 #include "esp_camera.h"
